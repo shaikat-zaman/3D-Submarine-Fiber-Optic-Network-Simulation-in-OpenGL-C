@@ -11,8 +11,6 @@ It visualizes the hidden backbone of the internet—**submarine fiber optic cabl
 
 ## 📸 Screenshots
 
-> Add your best visuals here (very important for recruiters 👇)
-
 ```markdown
 ![Main View](screenshots/view1.png)
 ![Admin Panel](screenshots/view2.png)
