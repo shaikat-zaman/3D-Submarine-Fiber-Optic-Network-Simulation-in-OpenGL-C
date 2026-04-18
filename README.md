@@ -8,18 +8,22 @@
 It visualizes the hidden backbone of the internet—**submarine fiber optic cables**—connecting a rural coastal region of **Bangladesh** to a modern smart city in **Singapore**.
 
 ---
-
 ## 📸 Screenshots
 
+**A Complete 3D World:** The fully rendered procedural environment showcasing the connection between the coastal village of Bangladesh and the modern cityscape of Singapore.
 ![Main View](screenshots/view1.png)
 
+**Interactive 2D Admin Panel & HUD:** A custom-built, "hacker-style" terminal interface overlaid on the 3D world using `gluOrtho2D` to allocate live IP addresses, bandwidth, and packet types.
 ![Admin Panel](screenshots/view2.png)
 
+**Hardware Fault Simulation:** Demonstrating a critical cable break event where data packets halt, realistic electrical sparks fly, and the live network load drops to zero.
 ![Cable Break Event](screenshots/view3.png)
 
+**Terrestrial Data Routing:** Real-time visualization of color-coded data packets traveling from the local ISP, through power poles, and directly into individual houses using linear interpolation.
 ![Packet Transfer](screenshots/view4.png)
 
-
+**Submarine Cable Transmission:** Data packets crossing the ocean floor along a mathematically calculated Cubic Bezier Curve, featuring glowing fading trails and a dynamic marine ecosystem.
+![Packet Transferring under ocean](screenshots/view5.png)
 
 ## ✨ Key Features
 
