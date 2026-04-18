@@ -20,6 +20,8 @@ It visualizes the hidden backbone of the internet—**submarine fiber optic cabl
 ![Cable Break Event](screenshots/view3.png)
 
 **Terrestrial Data Routing:** Real-time visualization of color-coded data packets traveling from the local ISP, through power poles, and directly into individual houses using linear interpolation.
+
+
 ![Packet Transfer](screenshots/view4.png)
 
 **Submarine Cable Transmission:** Data packets crossing the ocean floor along a mathematically calculated Cubic Bezier Curve, featuring glowing fading trails and a dynamic marine ecosystem.
