@@ -11,9 +11,6 @@ It visualizes the hidden backbone of the internet—**submarine fiber optic cabl
 
 ## 📸 Screenshots
 
-
-## 📸 Screenshots
-
 ![Main View](screenshots/view1.png)
 
 ![Admin Panel](screenshots/view2.png)
